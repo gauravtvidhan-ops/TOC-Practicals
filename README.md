@@ -23,4 +23,3 @@ g++ exp1.cpp -o exp1
 ./exp1
 ```
 
-Each program asks for a binary string as input and prints whether it is **Accepted** or **Rejected** (exp6 instead prints the count of 0s and 1s).
