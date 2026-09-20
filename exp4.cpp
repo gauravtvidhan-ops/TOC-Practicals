@@ -1,7 +1,4 @@
 // Experiment 4: Machine for a decimal number divisible by 2
-// NOTE: The screenshot in the original document for Experiment 4 is
-// identical to Experiment 3 (mod_3). Replace this with the actual
-// "divisible by 2" code before submitting.
 #include <iostream>
 #include <string>
 using namespace std;
